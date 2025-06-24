@@ -1,4 +1,4 @@
-
+from dados import produtos, funcionarios, usuarios
 
 funcionarios = []
 
