@@ -1,7 +1,5 @@
 from dados import produtos, funcionarios, usuarios
 
-funcionarios = []
-
 def menu_gerente():
     while True: 
         print("==============MENU GERENCIA===============")
